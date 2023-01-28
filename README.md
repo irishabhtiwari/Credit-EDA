@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/max/847/1*f7m92eei7PE8gFyaCQnXMw.jpeg" alt="https://miro.medium.com/max/847/1*f7m92eei7PE8gFyaCQnXMw.jpeg" width="80px" height="80px">
 </p>
 <h1 align="center"> CREDIT EDA </h1>
-<h3 align="center">  Exploratory data analysis (EDA)  </h3>
+<h3 align="center">  Exploratory Data Analysis (EDA)  </h3>
 <h5 align="center"> Case Study - <a href="https://www.concordia.ca/">IIIT Bengaluru</a> (2022) </h5>
 
 <p align="center"> 
