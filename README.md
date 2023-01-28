@@ -1,33 +1,26 @@
 
-![Logo](https://www.indiastudychannel.com/attachments/Resources/174852-1-Request-to-bank-to-not-put-you-under-defaulter-list.png)
-# CREDIT EDA
+<p align="center"> 
+  <img src="https://miro.medium.com/max/847/1*f7m92eei7PE8gFyaCQnXMw.jpeg" alt="https://miro.medium.com/max/847/1*f7m92eei7PE8gFyaCQnXMw.jpeg" width="80px" height="80px">
+</p>
+<h1 align="center"> CREDIT EDA </h1>
+<h3 align="center">  Exploratory data analysis (EDA)  </h3>
+<h5 align="center"> Case Study 1 - <a href="https://www.concordia.ca/">IIIT Bengaluru</a> (2022) </h5>
 
-The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specialises in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
+<p align="center"> 
+   <img src="https://www.fastcapital360.com/wp-content/uploads/2021/12/graphic_01-2.gif" alt="https://www.fastcapital360.com/wp-content/uploads/2021/12/graphic_01-2.gif">
 
-When the company receives a loan application, the company has to decide for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+<h2> :chart_with_upwards_trend: Introduction</h2>
+</b>The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specialises in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.</b>
 
-- If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
-
-- If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
-
-The data contains the information about the loan application at the time of applying for the loan. It contains two types of scenarios:
-
-- The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
-
-- All other cases: All other cases when the payment is paid on time.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## Business Objectives
-This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
+<h2> :floppy_disk: Business Objectives</h2>
+</b>This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.</b>
 
- This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. 
- 
- This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- ![Logo](https://www.askcred.com/wp-content/uploads/2021/01/Personal-loan-for-CIBIL-defaulter-MOBILE-VECTOR.png)
-![Logo](https://www.fisdom.com/wp-content/uploads/2019/08/Screenshot-2019-08-20-at-3.33.09-PM.png)
-
-## Data Understanding
+<h2> :book: Data Understanding </h2>
 This dataset has 3 files as explained below: 
 1. 'application_data.csv'  contains all the information of the client at the time of application.
 The data is about whether a client has payment difficulties.
@@ -36,9 +29,10 @@ The data is about whether a client has payment difficulties.
 
 3. 'columns_description.csv' is data dictionary which describes the meaning of the variables.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-## Overall Approach
+<h2> :clipboard: Overall Approach </h2>
 
 -  Presenting the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.
 
@@ -60,13 +54,22 @@ The data is about whether a client has payment difficulties.
 
 - Conclusion and Recommendation.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Library Used
+<h2> :books: Library Used </h2>
 
 - Numpy
 - Pandas
 - Seaborn
 - Matplotlib
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![Logo](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/187550926/original/cde47296f9d02346b6561eee753741d7272bfce6/do-data-analysis-in-python-using-numpy-pandas-matplotlib-seaborn.jpg)
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+Rishabh Tiwari
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irishabhtiwari)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/irishabhtiwari)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsrishabh)
