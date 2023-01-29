@@ -9,18 +9,18 @@
 <p align="center"> 
    <img src="https://www.fastcapital360.com/wp-content/uploads/2021/12/graphic_01-2.gif" alt="https://www.fastcapital360.com/wp-content/uploads/2021/12/graphic_01-2.gif">
 
-<h2> :chart_with_upwards_trend: Introduction</h2>
-</b>The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specialises in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.</b>
+- The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. 
+- In this project used EDA to analyse the patterns present in the data and this will ensure that the applicants capable of repaying the loan are not rejected.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <h2> ⚡️ Business Objectives</h2>
-</b>This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.</b>
+</b>This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. </b>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :book: Data Understanding </h2>
+## ⏳ Dataset
 <h4>This dataset has 3 files as explained below :</h4> 
 <ul>
 
@@ -35,7 +35,35 @@ The data is about whether a client has payment difficulties.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>:clipboard: Overall Approach </h2>
+## :desktop_computer:	Installation
+### :hammer_and_wrench: Requirements
+* Python 3.5+
+
+## :gear: Setup
+1. Install Numpy :-
+```bash
+$ pip install numpy
+```
+2. Install Pandas :-
+```bash
+$ pip install pandas
+
+```
+3. Install Matplotlib
+```bash
+pip install matplotlib
+```
+4. Install Seaborn
+```bash
+$ pip install seaborn
+
+```
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+## 📝 Description
+
 
 <li><b> Presenting the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.</b> 
 
@@ -60,10 +88,6 @@ The data is about whether a client has payment difficulties.
 <p align="center"> 
     <img src="https://s.wsj.net/public/resources/images/OG-CD365_201812_SOC_20181227121928.gif">
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h3 align="left"> 🧬 Languages and Tools Used:</h3>
- </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><img src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" alt="numpy" width="40" height="40"/> <img src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667"alt="matplotlib" width="40" height="40"/> </a> </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
