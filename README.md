@@ -53,11 +53,11 @@ $ pip install numpy
 $ pip install pandas
 
 ```
-3. Install Matplotlib
+3. Install Matplotlib :-
 ```bash
 pip install matplotlib
 ```
-4. Install Seaborn
+4. Install Seaborn :-
 ```bash
 $ pip install seaborn
 
